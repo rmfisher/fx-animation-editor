@@ -1,0 +1,152 @@
+/**** Title-Bar ****/
+
+.title-bar {
+    -fx-background-color: border, white;
+    -fx-background-insets: 0, 1 0 1 0;
+}
+
+.title-bar .highlight {
+    -fx-background-color: -fx-accent;
+    -fx-pref-height: 2;
+}
+
+.title-bar .label {
+    -fx-padding: 4 6 5 6;
+    -fx-text-fill: header-text;
+}
+
+.title-bar .right-label {
+    -fx-text-fill: dim-text;
+    -fx-padding: 4 6 5 6;
+    -fx-font-size: 11;
+}
+
+/**** General Properties ****/
+
+.property-editor {
+    -fx-background-color: background;
+}
+
+.property-editor .label,
+.property-editor .text-field {
+    -fx-font-size: 11;
+}
+
+.property-editor .text-field {
+    -fx-min-width: 0;
+}
+
+.property-editor .title-bar {
+    -fx-background-insets: -1 0 0 0, 0 0 1 0;
+}
+
+.property-editor .title-bar .label {
+    -fx-font-size: 12;
+}
+
+.properties-content {
+    -fx-padding: 15;
+    -fx-spacing: 10;
+}
+
+.text-input-component,
+.properties-input-grid {
+    -fx-hgap: 10;
+}
+
+.text-input-component .input-box {
+    -fx-spacing: 10;
+}
+
+.text-input-component .clear-button {
+    -fx-background-color: border;
+    -fx-background-insets: 0;
+    -fx-background-radius: 0;
+    -fx-padding: 0 2 0 2;
+    -fx-cursor: hand;
+    -fx-pref-height: 11;
+    -fx-translate-x: -6;
+}
+
+.text-input-component .clear-button .path {
+    -fx-fill: white;
+}
+
+.slider-component .slider-box {
+    -fx-spacing: 5;
+}
+
+.slider-component .text-field {
+    -fx-min-width: 55;
+    -fx-pref-width: 55;
+    -fx-max-width: 55;
+}
+
+.slider-component .slider {
+    -fx-min-width: 0;
+}
+
+.rotator-box {
+    -fx-spacing: 10;
+}
+
+.rotator-dial .button {
+    -fx-background-radius: 20;
+    -fx-min-width: 35;
+    -fx-pref-width: 35;
+    -fx-max-width: 35;
+    -fx-min-height: 35;
+    -fx-pref-height: 35;
+    -fx-max-height: 35;
+}
+
+.rotator-dial .button:pressed {
+    -fx-color: -fx-pressed-base;
+}
+
+.rotator-dial .circle-pane {
+    -fx-padding: 5;
+}
+
+.rotator-dial .circle {
+    -fx-fill: null;
+    -fx-stroke: rgb(0, 0, 0, 0.4);
+    -fx-stroke-width: 0.5;
+}
+
+.properties-content .check-box {
+    -fx-pref-height: 25;
+    -fx-min-height: 25;
+    -fx-max-height: 25;
+}
+
+.no-node-selected-label {
+    -fx-text-fill: dim-text;
+    -fx-font-size: 11;
+}
+
+/**** Interpolator Button ****/
+
+.interpolator-button {
+    -fx-background-color: derive(background, -8%), background;
+    -fx-background-insets: 0, 1;
+    -fx-padding: 3 5 3 5;
+    -fx-max-height: Infinity;
+}
+
+.interpolator-button:hover,
+.interpolator-button:showing {
+    -fx-background-color: border, derive(background, 30%);
+}
+
+.interpolator-button .svg-view .path {
+    -fx-fill: mark;
+}
+
+.interpolator-popup-content .list-cell:filled .svg-view .path {
+    -fx-fill: mark;
+}
+
+.rotate-component .interpolator-button {
+    -fx-max-height: 25;
+}

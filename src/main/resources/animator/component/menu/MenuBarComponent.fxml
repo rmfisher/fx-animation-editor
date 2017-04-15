@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+
+<MenuBar fx:id="root" xmlns:fx="http://javafx.com/fxml" useSystemMenuBar="true">
+    <Menu fx:id="fileMenu" text="File">
+        <MenuItem text="New             " fx:id="newMenuItem" accelerator="Shortcut+N"/>
+        <MenuItem text="Open            " fx:id="openMenuItem" accelerator="Shortcut+O"/>
+        <SeparatorMenuItem/>
+        <MenuItem text="Save            " fx:id="saveMenuItem" accelerator="Shortcut+S"/>
+        <MenuItem text="Save As         " fx:id="saveAsMenuItem"/>
+        <SeparatorMenuItem/>
+        <Menu text="Gallery" styleClass="sub-menu">
+            <MenuItem text="Editor Logo" fx:id="openLogoMenuItem"/>
+            <MenuItem text="Slack Logo" fx:id="openSlackMenuItem"/>
+        </Menu>
+        <MenuItem text="Exit            " fx:id="exitMenuItem" accelerator="Shortcut+Q"/>
+    </Menu>
+    <Menu text="Edit" styleClass="top-level-menu">
+        <MenuItem text="Undo                        " fx:id="undoMenuItem" accelerator="Shortcut+Z"/>
+        <MenuItem text="Redo                        " fx:id="redoMenuItem" accelerator="Shortcut+Y"/>
+        <SeparatorMenuItem/>
+        <MenuItem text="Cut                         " fx:id="cutMenuItem" accelerator="Shortcut+X"/>
+        <MenuItem text="Copy                        " fx:id="copyMenuItem" accelerator="Shortcut+C"/>
+        <MenuItem text="Paste                       " fx:id="pasteMenuItem" accelerator="Shortcut+V"/>
+        <SeparatorMenuItem/>
+        <MenuItem text="Select All                  " fx:id="selectAllMenuItem" accelerator="Shortcut+A"/>
+        <MenuItem text="Delete Selection            " fx:id="deleteMenuItem" accelerator="Delete"/>
+        <MenuItem text="Clear Selection             " fx:id="clearSelectionMenuItem" accelerator="Esc"/>
+        <SeparatorMenuItem/>
+        <MenuItem text="Group                       " fx:id="groupMenuItem" accelerator="Shortcut+G"/>
+        <MenuItem text="Ungroup                     " fx:id="ungroupMenuItem" accelerator="Shortcut+Shift+G"/>
+        <SeparatorMenuItem/>
+        <MenuItem text="Move to Front               " fx:id="toFrontMenuItem" accelerator="Shortcut+F"/>
+        <MenuItem text="Move to Back                " fx:id="toBackMenuItem" accelerator="Shortcut+Shift+F"/>
+    </Menu>
+    <Menu text="View" styleClass="top-level-menu">
+        <MenuItem text="Pan to Origin         " fx:id="panToOriginMenuItem" accelerator="Home"/>
+        <MenuItem text="Pan to Content        " fx:id="panToContentMenuItem" accelerator="End"/>
+    </Menu>
+</MenuBar>

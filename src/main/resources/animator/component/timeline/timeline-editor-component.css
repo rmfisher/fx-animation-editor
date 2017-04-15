@@ -1,0 +1,30 @@
+.timeline-editor {
+    -fx-background-color: derive(border, 10%), edge-highlight, background;
+    -fx-background-insets: 0, 1 0 0 0, 2 0 0 0;
+    -fx-padding: 16 0 0 0;
+}
+
+.timeline-editor .scroll-pane,
+.timeline-editor .viewport {
+    -fx-padding: 0;
+    -fx-background-insets: 0;
+    -fx-background-color: transparent;
+}
+
+.timeline-editor .scroll-pane-content {
+    -fx-padding: 0 15 15 15;
+    -fx-spacing: 15;
+}
+
+.timeline-editor .key-frames-box {
+    -fx-spacing: 15;
+}
+
+.timeline-editor .scroll-pane-content > .button {
+    -fx-color: -fx-base;
+    -fx-background-color: border, white;
+    -fx-background-insets: 0, 1;
+    -fx-background-radius: 0;
+    -fx-padding: 7;
+    -fx-cursor: hand;
+}

@@ -1,0 +1,36 @@
+.color-editor .indicator-box {
+    -fx-spacing: 5;
+}
+
+.color-editor .selection-indicator {
+    -fx-font-size: 11;
+    -fx-border-color: border;
+    -fx-padding: 3 7 3 6;
+    -fx-graphic-text-gap: 5;
+}
+
+.color-editor .selection-indicator:selected {
+     -fx-background-color: white;
+}
+
+.color-editor .color-graphic {
+    -fx-pref-width: 11;
+    -fx-pref-height: 11;
+}
+
+.color-editor .color-graphic:show-border {
+    -fx-border-color: rgb(180, 180, 180);
+}
+
+.color-editor .color-graphic .line {
+    -fx-stroke: rgb(180, 180, 180);
+}
+
+.color-editor .standard-colors-box {
+    -fx-spacing: 5;
+}
+
+.color-editor .standard-colors-box .color-graphic {
+    -fx-pref-width: 13;
+    -fx-pref-height: 13;
+}

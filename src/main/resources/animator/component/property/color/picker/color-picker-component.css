@@ -1,0 +1,51 @@
+.color-picker,
+.color-picker .palette-box {
+    -fx-spacing: 10;
+}
+
+.color-picker .rgb-box {
+    -fx-spacing: 5;
+}
+
+.color-picker .hue-pane {
+    -fx-pref-height: 16;
+}
+
+.color-picker .transparent-pattern {
+    -fx-background-image: url("transparent-pattern.png");
+}
+
+.color-picker .saturation-and-brightness-indicator {
+    -fx-background-color: null;
+    -fx-border-color: white;
+    -fx-border-radius: 5;
+    -fx-translate-x: -5;
+    -fx-translate-y: -5;
+    -fx-pref-width: 10;
+    -fx-pref-height: 10;
+    -fx-effect: dropshadow(three-pass-box, black, 2, 0, 0, 1);
+}
+
+.color-picker .hue-indicator {
+    -fx-border-radius: 4;
+    -fx-border-color: white;
+    -fx-effect: dropshadow(three-pass-box, black, 2, 0, 0, 1);
+    -fx-pref-height: 21;
+    -fx-pref-width: 10;
+    -fx-translate-y: -3;
+    -fx-translate-x: -5;
+}
+
+.color-picker .rgb-box .text-field {
+    -fx-min-width: 45;
+    -fx-pref-width: 45;
+    -fx-max-width: 45;
+    -fx-padding: 4 4 4 18;
+    -fx-font-size: 11;
+}
+
+.color-picker .rgb-box .label {
+    -fx-padding: 0 0 0 6;
+    -fx-font-size: 11;
+    -fx-text-fill: rgb(120, 120, 120);
+}

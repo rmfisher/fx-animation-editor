@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.layout.VBox?>
+<?import java.net.URL?>
+
+<VBox fx:id="root" styleClass="interpolator-editor, properties-content" xmlns:fx="http://javafx.com/fxml">
+    <ComboBox fx:id="interpolatorComboBox" minWidth="0" styleClass="plain-combo-box"/>
+    <!-- Plot Component goes here -->
+    <stylesheets>
+        <URL value="@interpolator-editor-component.css"/>
+    </stylesheets>
+</VBox>

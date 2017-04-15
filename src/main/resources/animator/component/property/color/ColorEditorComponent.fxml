@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+
+<VBox fx:id="root" styleClass="color-editor, properties-content" xmlns:fx="http://javafx.com/fxml">
+    <HBox fx:id="indicatorBox" styleClass="indicator-box">
+        <Label fx:id="fillButton" styleClass="selection-indicator" text="Fill"/>
+        <Label fx:id="strokeButton" styleClass="selection-indicator" text="Stroke"/>
+        <Region maxWidth="Infinity" HBox.hgrow="ALWAYS"/>
+    </HBox>
+    <!-- ColorPickerComponent goes here. -->
+    <HBox fx:id="standardColorsBox" styleClass="standard-colors-box"/>
+    <stylesheets>
+        <URL value="@color-editor-component.css"/>
+    </stylesheets>
+</VBox>

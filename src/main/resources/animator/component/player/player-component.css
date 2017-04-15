@@ -1,0 +1,37 @@
+.player {
+    -fx-background-color: derive(border, 10%), derive(edge-highlight, -1%), background;
+    -fx-background-insets: 0, 1 0 0 0, 2 0 0 0;
+    -fx-padding: 5 10 4 10;
+    -fx-alignment: center;
+}
+
+.player .button-box {
+    -fx-spacing: 15;
+}
+
+.player .button {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0;
+    -fx-padding: 2;
+    -fx-cursor: hand;
+}
+
+.player .svg-view .path {
+    -fx-fill: mark-light;
+    -fx-effect: innershadow(gaussian, derive(mark, 30%), 4, 0, 0, 0);
+}
+
+.player .button:hover .svg-view .path,
+.player .button:pressed .svg-view .path {
+    -fx-fill: derive(mark-light, -8%);
+}
+
+.player .label {
+    -fx-font-size: 11;
+    -fx-text-fill: mark;
+}
+
+.player .current-time-label {
+    -fx-min-width: 25;
+    -fx-text-fill: -fx-accent;
+}

@@ -1,0 +1,44 @@
+.dialog {
+    -fx-background-color: background;
+    -fx-background-radius: 4;
+    -fx-effect: dropshadow(gaussian, rgb(0, 0, 0, 0.15), 12, 0, 0, 6);
+    -fx-translate-y: -50;
+    -fx-padding: 15;
+    -fx-spacing: 20;
+}
+
+.dialog .label {
+    -fx-font-size: 12;
+    -fx-graphic-text-gap: 15;
+    -fx-padding: 10;
+}
+
+.dialog .button-box {
+    -fx-spacing: 5;
+}
+
+.dialog .button {
+    -fx-background-color: null;
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+    -fx-cursor: hand;
+    -fx-font-size: 12;
+    -fx-padding: 5 8 5 8;
+    -fx-background-radius: 4;
+}
+
+.dialog .button:focused {
+    -fx-text-fill: -fx-accent;
+}
+
+.dialog .button:hover,
+.dialog .button:pressed {
+    -fx-background-color: derive(mark, 40%);
+    -fx-text-fill: white;
+}
+
+.dialog .svg-view .path {
+    -fx-fill: derive(mark, 40%);
+    -fx-effect: innershadow(gaussian, derive(mark, -10%), 3, 0, 0, 0);
+    -fx-translate-y: 1;
+}

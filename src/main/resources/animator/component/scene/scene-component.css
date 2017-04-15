@@ -1,0 +1,71 @@
+.scene-component {
+    -fx-background-color: white;
+}
+
+.scene-component .selection-box {
+    -fx-stroke: deepskyblue;
+	-fx-stroke-type: inside;
+	-fx-fill: rgb(135, 206, 250, 0.2);
+}
+
+.resizer-group .box {
+    -fx-background-color: transparent, derive(border, -8%), white;
+    -fx-background-insets: -4, 0, 1;
+    -fx-pref-width: 5;
+    -fx-pref-height: 5;
+}
+
+.resizer-group .rectangle {
+    -fx-stroke: derive(border, -8%);
+    -fx-stroke-type: inside;
+    -fx-fill: null;
+}
+
+.resizer-group .top {
+    -fx-translate-y: -2;
+}
+
+.resizer-group .right {
+    -fx-translate-x: 2;
+}
+
+.resizer-group .bottom {
+    -fx-translate-y: 2;
+}
+
+.resizer-group .left {
+    -fx-translate-x: -2;
+}
+
+.resizer-group .top-left {
+    -fx-translate-x: -2;
+    -fx-translate-y: -2;
+}
+
+.resizer-group .top-right {
+    -fx-translate-x: 2;
+    -fx-translate-y: -2;
+}
+
+.resizer-group .bottom-left {
+    -fx-translate-x: -2;
+    -fx-translate-y: 2;
+}
+
+.resizer-group .bottom-right {
+    -fx-translate-x: 2;
+    -fx-translate-y: 2;
+}
+
+.scene-component .button {
+    -fx-padding: 0;
+    -fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 3px, 2px, 1px;
+    -fx-min-width: 26;
+    -fx-min-height: 26;
+    -fx-pref-width: 26;
+    -fx-pref-height: 26;
+    -fx-max-width: 26;
+    -fx-max-height: 26;
+}

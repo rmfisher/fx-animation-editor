@@ -1,0 +1,2069 @@
+{
+  "timeline": {
+    "keyFrames": [
+      {
+        "nodeStates": [
+          {
+            "nodeId": 0,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 15.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 0.0,
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": []
+          },
+          {
+            "nodeId": 2,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 200.0,
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "value": {
+                  "red": 0.9137254953384399,
+                  "green": 0.658823549747467,
+                  "blue": 0.125490203499794,
+                  "alpha": 1.0
+                },
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 3,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 160.0,
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 240.0,
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "value": {
+                  "red": 0.8784313797950745,
+                  "green": 0.08235294371843338,
+                  "blue": 0.38823530077934265,
+                  "alpha": 1.0
+                },
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 1,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 200.0,
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 80.0,
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "value": {
+                  "red": 0.4313725531101227,
+                  "green": 0.7921568751335144,
+                  "blue": 0.8627451062202454,
+                  "alpha": 1.0
+                },
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 4,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 40.0,
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "value": {
+                  "red": 0.24313725531101227,
+                  "green": 0.7254902124404907,
+                  "blue": 0.5686274766921997,
+                  "alpha": 1.0
+                },
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          }
+        ],
+        "time": 0.0
+      },
+      {
+        "nodeStates": [
+          {
+            "nodeId": 0,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": []
+          },
+          {
+            "nodeId": 2,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 0.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 240.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 200.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 3,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 160.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 240.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 40.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 1,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 0.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 240.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 80.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 4,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 240.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 40.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          }
+        ],
+        "time": 0.65
+      },
+      {
+        "nodeStates": [
+          {
+            "nodeId": 0,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": []
+          },
+          {
+            "nodeId": 2,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 240.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 200.0,
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 3,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 160.0,
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 240.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 40.0,
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 1,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 240.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 80.0,
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 4,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 240.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 40.0,
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          }
+        ],
+        "time": 0.2
+      },
+      {
+        "nodeStates": [
+          {
+            "nodeId": 0,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": []
+          },
+          {
+            "nodeId": 2,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 200.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 200.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 3,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 160.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 40.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 1,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 0.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 80.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 4,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 240.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          }
+        ],
+        "time": 0.65
+      },
+      {
+        "nodeStates": [
+          {
+            "nodeId": 0,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "interpolator": 3
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "interpolator": 3
+              }
+            ],
+            "colorKeyValues": []
+          },
+          {
+            "nodeId": 2,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 0.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 200.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 3,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 160.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 240.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 1,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 200.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 80.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          },
+          {
+            "nodeId": 4,
+            "doubleKeyValues": [
+              {
+                "field": "TRANSLATE_Y",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_X",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "OPACITY",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "TRANSLATE_Z",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_WIDTH",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_Z",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ROTATE",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "SCALE_X",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "ARC_HEIGHT",
+                "value": 40.0,
+                "interpolator": 3
+              },
+              {
+                "field": "WIDTH",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "SCALE_Y",
+                "value": 1.0,
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE_WIDTH",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "HEIGHT",
+                "value": 40.0,
+                "interpolator": 4
+              },
+              {
+                "field": "TRANSLATE_X",
+                "value": 0.0,
+                "interpolator": 3
+              },
+              {
+                "field": "LAYOUT_Y",
+                "value": 40.0,
+                "interpolator": 4
+              }
+            ],
+            "colorKeyValues": [
+              {
+                "field": "FILL",
+                "interpolator": 3
+              },
+              {
+                "field": "STROKE",
+                "interpolator": 3
+              }
+            ]
+          }
+        ],
+        "time": 0.65
+      }
+    ]
+  },
+  "scene": {
+    "nodes": [
+      {
+        "id": 0,
+        "type": "GROUP",
+        "children": [
+          {
+            "id": 1,
+            "type": "RECTANGLE"
+          },
+          {
+            "id": 2,
+            "type": "RECTANGLE"
+          },
+          {
+            "id": 3,
+            "type": "RECTANGLE"
+          },
+          {
+            "id": 4,
+            "type": "RECTANGLE"
+          }
+        ]
+      }
+    ],
+    "snapToGrid": true
+  },
+  "interpolatorList": {
+    "splineParameters": [
+      0.75,
+      0.25,
+      0.25,
+      0.75
+    ],
+    "overshootParameters": [
+      0.1,
+      10.0,
+      0.0,
+      10.0,
+      20.0,
+      2.0
+    ],
+    "bounceParameters": [
+      0.1,
+      2.0,
+      30.0,
+      10.0,
+      30.0,
+      2.0
+    ]
+  }
+}

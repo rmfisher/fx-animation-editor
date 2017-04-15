@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import java.net.URL?>
+
+<VBox fx:id="root" styleClass="timeline-editor" xmlns:fx="http://javafx.com/fxml" minHeight="-Infinity" maxHeight="-Infinity">
+    <ScrollPane fx:id="scrollPane" fitToHeight="true" vbarPolicy="NEVER" hbarPolicy="ALWAYS">
+        <HBox fx:id="scrollPaneContent" styleClass="scroll-pane-content">
+            <HBox fx:id="keyFramesBox" styleClass="key-frames-box"/>
+            <Button fx:id="addButton" maxHeight="Infinity" focusTraversable="false"/>
+        </HBox>
+    </ScrollPane>
+    <stylesheets>
+        <URL value="@timeline-editor-component.css"/>
+    </stylesheets>
+</VBox>

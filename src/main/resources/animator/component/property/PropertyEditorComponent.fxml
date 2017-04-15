@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.*?>
+<?import animator.component.property.control.*?>
+<?import java.net.URL?>
+
+<ScrollPane fx:id="root" xmlns:fx="http://javafx.com/fxml" styleClass="property-editor" minHeight="0" minWidth="220" maxWidth="500" fitToWidth="true">
+    <VBox fx:id="scrollPaneContent">
+        <TitledBoxComponent fx:id="layoutBox" titleText="Layout" expanded="true">
+            <VBox styleClass="properties-content">
+                <DoubleInputComponent fx:id="layoutXInput" labelText="Layout X" min="-1e6" max="1e6" decimalPlaces="2"/>
+                <DoubleInputComponent fx:id="layoutYInput" labelText="Layout Y" min="-1e6" max="1e6" decimalPlaces="2"/>
+                <DoubleInputComponent fx:id="widthInput" labelText="Width" min="5" max="1e6" decimalPlaces="2"/>
+                <DoubleInputComponent fx:id="heightInput" labelText="Height" min="5" max="1e6" decimalPlaces="2"/>
+                <GridPane styleClass="properties-input-grid">
+                    <Label text="Snap to Grid" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+                    <CheckBox fx:id="snapToGridCheckBox" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+                    <columnConstraints>
+                        <ColumnConstraints percentWidth="35"/>
+                    </columnConstraints>
+                </GridPane>
+            </VBox>
+        </TitledBoxComponent>
+        <TitledBoxComponent fx:id="colorBox" titleText="Color" expanded="true">
+            <!-- Color Editor goes here -->
+        </TitledBoxComponent>
+        <TitledBoxComponent fx:id="shapeBox" titleText="Shape" expanded="false">
+            <VBox styleClass="properties-content">
+                <DoubleInputComponent fx:id="strokeWidthInput" labelText="Stroke Width" min="0" max="1e6" decimalPlaces="2"/>
+                <DoubleInputComponent fx:id="arcWidthInput" labelText="Arc Width" min="0" max="1e6" decimalPlaces="2"/>
+                <DoubleInputComponent fx:id="arcHeightInput" labelText="Arc Height" min="0" max="1e6" decimalPlaces="2"/>
+                <SliderComponent fx:id="opacityInput" labelText="Opacity" min="0" max="1" blockIncrement="0.01" decimalPlaces="2"/>
+            </VBox>
+        </TitledBoxComponent>
+        <TitledBoxComponent fx:id="transformBox" titleText="Transforms" expanded="false">
+            <VBox styleClass="properties-content">
+                <DoubleInputComponent fx:id="translateXInput" labelText="Translate X" min="-1e6" max="1e6" decimalPlaces="2"/>
+                <DoubleInputComponent fx:id="translateYInput" labelText="Translate Y" min="-1e6" max="1e6" decimalPlaces="2"/>
+                <DoubleInputComponent fx:id="translateZInput" labelText="Translate Z" min="-1e6" max="1e6" decimalPlaces="2"/>
+                <RotateComponent fx:id="rotateInput" labelText="Rotate"/>
+                <DoubleInputComponent fx:id="scaleXInput" labelText="Scale X" min="-1e6" max="1e6" decimalPlaces="2"/>
+                <DoubleInputComponent fx:id="scaleYInput" labelText="Scale Y" min="-1e6" max="1e6" decimalPlaces="2"/>
+                <DoubleInputComponent fx:id="scaleZInput" labelText="Scale Z" min="-1e6" max="1e6" decimalPlaces="2"/>
+            </VBox>
+        </TitledBoxComponent>
+        <TitledBoxComponent fx:id="interpolatorBox" titleText="Interpolators" animated="false">
+            <!-- Interpolator Editor goes here -->
+        </TitledBoxComponent>
+    </VBox>
+    <stylesheets>
+        <URL value="@property-editor-component.css"/>
+    </stylesheets>
+</ScrollPane>

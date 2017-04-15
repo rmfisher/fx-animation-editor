@@ -1,0 +1,63 @@
+.interpolator-editor .combo-box-base .list-cell {
+    -fx-padding: 5 9 5 9;
+    -fx-graphic-text-gap: 10;
+    -fx-font-size: 11;
+}
+
+.interpolator-editor .combo-box-base > .list-cell {
+    -fx-padding: 4 0 4 9;
+}
+
+.interpolator-editor .combo-box-base .list-cell .svg-view .path {
+    -fx-fill: rgb(100, 100, 100);
+}
+
+.chart {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0, 1;
+    -fx-padding: 0;
+    -fx-pref-height: 250;
+}
+
+.chart-content {
+    -fx-padding: 0;
+}
+
+.chart-plot-background {
+    -fx-background-color: border, white;
+    -fx-background-insets: 0, 1;
+}
+
+.chart-vertical-zero-line,
+.chart-horizontal-zero-line {
+    -fx-stroke: null;
+}
+
+.chart-series-line {
+    -fx-stroke: -fx-accent;
+    -fx-stroke-width: 1;
+    -fx-stroke-dash-array: 4 2;
+    -fx-stroke-line-cap: butt;
+}
+
+.chart .axis {
+    -fx-tick-length: 5;
+}
+
+.chart .axis:bottom {
+    -fx-border-color: null;
+    -fx-border-insets: 0;
+    -fx-background-color: null;
+    -fx-background-insets: 0;
+}
+
+.chart .axis:left {
+    -fx-border-color: border transparent border border;
+    -fx-background-color: derive(background, 25%);
+    -fx-background-insets: 0 1 0 0;
+    -fx-border-insets: 0 1 0 -1;
+    -fx-min-width: 28;
+    -fx-pref-width: 28;
+    -fx-max-width: 28;
+    -fx-tick-label-fill: rgb(51, 51, 51);
+}

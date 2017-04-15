@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<?import animator.component.timeline.KeyFrameTimeLabel?>
+
+<StackPane fx:id="root" styleClass="key-frame" xmlns:fx="http://javafx.com/fxml" minWidth="0" minHeight="-Infinity">
+    <HBox fx:id="leftButtonBox" styleClass="left-box" StackPane.alignment="TOP_LEFT" maxWidth="-Infinity" maxHeight="-Infinity">
+        <Button fx:id="deleteButton" styleClass="delete-button" focusTraversable="false"/>
+    </HBox>
+    <HBox fx:id="rightButtonBox" styleClass="right-box" StackPane.alignment="TOP_RIGHT" maxWidth="-Infinity" maxHeight="-Infinity">
+        <Button fx:id="decrementButton" focusTraversable="false"/>
+        <Button fx:id="incrementButton" focusTraversable="false"/>
+    </HBox>
+    <StackPane styleClass="content" maxHeight="-Infinity" maxWidth="-Infinity">
+        <HBox fx:id="labelBox" styleClass="label-box" alignment="CENTER" minWidth="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" maxHeight="-Infinity">
+            <Label fx:id="plusLabel" text="+"/>
+            <KeyFrameTimeLabel fx:id="timeLabel"/>
+            <Label text="s"/>
+        </HBox>
+        <Region fx:id="highlight" styleClass="highlight" StackPane.alignment="BOTTOM_CENTER"/>
+    </StackPane>
+    <stylesheets>
+        <URL value="@key-frame-component.css"/>
+    </stylesheets>
+</StackPane>
